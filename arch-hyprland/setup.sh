@@ -17,7 +17,7 @@ sudo pacman -Sy --noconfirm \
 	pipewire wireplumber pipewire-pulse alsa-utils pavucontrol brightnessctl \
 	swaync waybar hyprlock hyprpicker \
 	xdg-desktop-portal-hyprland archlinux-xdg-menu \
-	kitty tmux fzf neovim zsh htop ttf-font-awesome ttf-liberation \
+	kitty tmux man less fzf neovim zsh htop ttf-font-awesome ttf-liberation \
 	firefox keepassxc zip unzip vlc 
 
 yay -S hyprshot visual-studio-code-bin
