@@ -1,0 +1,6 @@
+hyprland/hyprland.conf /home/$(whoami)/.config/hypr/
+waybar/config.jsonc /home/$(whoami)/.config/waybar/
+hyprlock/hyprlock.conf /home/$(whoami)/.config/hypr/
+zsh/.zshrc /home/$(whoami)/
+tmux/.tmux.conf ~/home/$(whoami)/
+
